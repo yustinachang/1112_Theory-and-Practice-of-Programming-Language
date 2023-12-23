@@ -1,0 +1,35 @@
+Elizabeth (F)
+GeorgeVI (MD) Elizabeth (F) Margaret (FD)
+Elizabeth (F) Jane (F) Charles (M) Anne (F) Andrew (M) Edward (M)
+Charles (M) William (M) Henry (M)
+William (M) Mary (F) George (M) Emma (F) Charlotte (F) Louis (M) Carlo (F)
+Emma (F) Linda (F) Steve (MN)
+Linda (F) Paul (MN)
+Louis (M) Carl (MN) John (MN)
+Henry (M) Archie (M) Lilibet (F)
+Anne (F) Peter (M) Zara (F)
+Peter (M) Savannah (F) Isla (F)
+Zara (F) Mia (F) Lena (F) Lucas (MN) Helen (F)
+Lucas (MN) Robert (MN)
+Andrew (M) Beatrice (F) Eugenie (F)
+Beatrice (F) Sienna (F)
+Eugenie (F) August (M)
+Edward (M) Louise (F) James (M)
+Margaret (FD) David (M) Sarah (F)
+David (M) Charlie (M) Margarita (F)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
