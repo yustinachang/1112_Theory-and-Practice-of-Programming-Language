@@ -7,7 +7,7 @@ https://webap0.ncue.edu.tw/DEANV2/UploadDEAN/SUBJECT/1112/54008_1EICS0152430.pdf
 
 
 | Date | Course work | Submit |
-| -----| ---- | ---- |
+| ---- | ---- | ---- |
 | 0306 | menu | ontime |
 | 0313 | calculator | ontime |
 | 0320 | OX Game | next week |
